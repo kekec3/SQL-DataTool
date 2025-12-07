@@ -1,8 +1,8 @@
 ## 📋 Table of Contents
-- [Features](#features)  
-- [How It Works](#how-it-works)  
-- [Prerequisites](#prerequisites)    
-- [Usage](#example-usage)    
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Prerequisites](#prerequisites)
+- [Example Usage](#example-usage)   
 
 ---
 
@@ -26,7 +26,7 @@ When you launch the program, you are presented with a starting prompt:
 ![Greeting Screenshot](screenshots/imgGreeeting.png)
 
 
-Afterwards you operate in a simple, user-friendly menu:
+Then you interact with a simple, user-friendly menu:
 
 ![Menu Screenshot](screenshots/imgMenu.png)
 
@@ -50,4 +50,4 @@ When you're done it's easy to export your work:
 
 ![Export Screenshot](screenshots/imgExport.png)
 
-At the end you just insert the absolut path to the file.
+At the end, you just insert the absolute path to the file.
