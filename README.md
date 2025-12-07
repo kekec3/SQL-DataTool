@@ -19,7 +19,7 @@
 
 ---
 
-## 🧭 How It Works
+##  How It Works
 
 When you launch the program, you are presented with a starting prompt:
 
