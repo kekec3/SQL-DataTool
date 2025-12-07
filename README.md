@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Features
+## 🔧 Features <a id="features"></a>
 
 - Interactive **numbered menu** for all actions  
 - Create new SQL databases  
@@ -34,7 +34,7 @@ Just type a number (e.g., `1`, `2`, `3`) and follow the prompts.
 
 ---
 
-## 📦 Prerequisites
+## 📦 Prerequisites <a id="prerequisites"></a>
 
 - C++ compiler (GCC, Clang, MSVC, etc.)
 - CMake
@@ -42,7 +42,7 @@ Just type a number (e.g., `1`, `2`, `3`) and follow the prompts.
 
 ---
 
-## 🚀 Example Usage
+## 🚀 Example Usage <a id="example-usage"></a>
 
 ![UseCase Screenshot](screenshots/imgUseCase.png)
 
