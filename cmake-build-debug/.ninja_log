@@ -1,0 +1,22 @@
+# ninja log v5
+2	727	7369918486386085	CMakeFiles/POOP_project_1.dir/main.cpp.obj	be01cabea96dfc9c
+728	12545	7369918604403589	POOP_project_1.exe	9f18e3e837a00cf
+10	800	7369782583725308	CMakeFiles/POOP_project_1.dir/Statment.cpp.obj	f555210facf75d9c
+5	517	7367726787910484	CMakeFiles/POOP_project_1.dir/Table.cpp.obj	f14e12eb7c0cfef3
+26	5798	7369854787403866	CMakeFiles/POOP_project_1.dir/TableMK2.cpp.obj	411d41249b3d1cad
+1	127	7397999670703314	build.ninja	d7dcc6ef25bf245e
+7	5958	7369854789053219	CMakeFiles/POOP_project_1.dir/DataBase.cpp.obj	36986c737f8e0ad
+7	2881	7369898586531061	CMakeFiles/POOP_project_1.dir/Slicer.cpp.obj	ea3b40a924713c8c
+22	2334	7369854752916696	CMakeFiles/POOP_project_1.dir/Select.cpp.obj	8233bf734aa23fe9
+14	5808	7369854787523546	CMakeFiles/POOP_project_1.dir/Insert.cpp.obj	fa8f3691c6caba64
+29	5822	7369854787693104	CMakeFiles/POOP_project_1.dir/Condition.cpp.obj	49b14011ca560623
+17	1236	7369782588063696	CMakeFiles/POOP_project_1.dir/Delete.cpp.obj	142ba0fda27e3d72
+32	5783	7369854787244308	CMakeFiles/POOP_project_1.dir/Update.cpp.obj	7a328893ec27f398
+3	3243	7369565711348920	CMakeFiles/POOP_project_1.dir/ExportKekec.cpp.obj	1295f0c48cd7b5b0
+10	792	7369521931397059	CMakeFiles/POOP_project_1.dir/Exporter.cpp.obj	37f0a2594d7143e3
+35	2311	7369854752697283	CMakeFiles/POOP_project_1.dir/ExporterSQL.cpp.obj	3decf8b1156a83d7
+38	5997	7369854789432207	CMakeFiles/POOP_project_1.dir/ExporterKekec.cpp.obj	5619bbdcbbdc85dd
+3	2077	7397999785099025	CMakeFiles/POOP_project_1.dir/main.cpp.obj	be01cabea96dfc9c
+2078	15496	7397999919167709	POOP_project_1.exe	9f18e3e837a00cf
+4	4676	7400596198335844	CMakeFiles/POOP_project_1.dir/Slicer.cpp.obj	ea3b40a924713c8c
+4676	17694	7400596328475366	POOP_project_1.exe	9f18e3e837a00cf
